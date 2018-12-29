@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/minooo-blog/static/js/runtime~main.cd479761.js"
   },
   {
-    "revision": "7108e0eedd01f8cb59cc",
-    "url": "/minooo-blog/static/js/main.7108e0ee.chunk.js"
+    "revision": "ee3a37ee1cdd88c7bda3",
+    "url": "/minooo-blog/static/js/main.ee3a37ee.chunk.js"
   },
   {
     "revision": "fa92c112869d3657d47b",
     "url": "/minooo-blog/static/js/1.fa92c112.chunk.js"
   },
   {
-    "revision": "7108e0eedd01f8cb59cc",
+    "revision": "ee3a37ee1cdd88c7bda3",
     "url": "/minooo-blog/static/css/main.bd8ad5a4.chunk.css"
   },
   {
-    "revision": "b0bd27fb809a355a2f37629f7f4ced1d",
+    "revision": "3d376c4f8f753d79ecc92b7e71656c8b",
     "url": "/minooo-blog/index.html"
   }
 ];

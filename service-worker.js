@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/minooo-blog/precache-manifest.82e7c25a6cbbf47d12556ff05553a159.js"
+  "/minooo-blog/precache-manifest.a66c00b5739c1f12bfe2962997f796c3.js"
 );
 
 workbox.clientsClaim();
