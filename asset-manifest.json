@@ -1,14 +1,14 @@
 {
-  "main.css": "/minooo-blog/static/css/main.bd8ad5a4.chunk.css",
-  "main.js": "/minooo-blog/static/js/main.ee3a37ee.chunk.js",
-  "main.js.map": "/minooo-blog/static/js/main.ee3a37ee.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/minooo-blog/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/minooo-blog/static/js/1.fa92c112.chunk.js.map",
-  "runtime~main.js": "/minooo-blog/static/js/runtime~main.cd479761.js",
-  "runtime~main.js.map": "/minooo-blog/static/js/runtime~main.cd479761.js.map",
-  "static/media/logo.svg": "/minooo-blog/static/media/logo.5d5d9eef.svg",
-  "static/css/main.bd8ad5a4.chunk.css.map": "/minooo-blog/static/css/main.bd8ad5a4.chunk.css.map",
-  "index.html": "/minooo-blog/index.html",
-  "precache-manifest.a66c00b5739c1f12bfe2962997f796c3.js": "/minooo-blog/precache-manifest.a66c00b5739c1f12bfe2962997f796c3.js",
-  "service-worker.js": "/minooo-blog/service-worker.js"
+  "main.css": "/static/css/main.bd8ad5a4.chunk.css",
+  "main.js": "/static/js/main.baa3e4b0.chunk.js",
+  "main.js.map": "/static/js/main.baa3e4b0.chunk.js.map",
+  "static/js/1.fa92c112.chunk.js": "/static/js/1.fa92c112.chunk.js",
+  "static/js/1.fa92c112.chunk.js.map": "/static/js/1.fa92c112.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+  "static/css/main.bd8ad5a4.chunk.css.map": "/static/css/main.bd8ad5a4.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.7becab7f9eb518609b8e1ef85f2715b1.js": "/precache-manifest.7becab7f9eb518609b8e1ef85f2715b1.js",
+  "service-worker.js": "/service-worker.js"
 }
