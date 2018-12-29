@@ -2,7 +2,7 @@
   "name": "minooo-blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myapp.github.com/minooo-blog",
+  "homepage": "https://minooo.github.io/myapp.github.com",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
